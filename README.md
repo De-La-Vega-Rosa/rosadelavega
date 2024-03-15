@@ -1,21 +1,24 @@
-# Hey ✒️
+# Quem sou ✒️
 
-* My name is **Rosa de La Vega**
+* Me chamo **Rosa de La Vega**, sou mexicana vivendo no nordeste do Brasil, trabalho com pessoas, mantenho repositórios, elaboro documentação, realizo tradução, publico os materiais em ambientes virtuais, utilizando a linguagem Markdown.
+* Sou gestora da informação, profissional especialista em gerenciar o fluxo de dados, documentar as ações e os processos. Responsável por armazenar, proteger e disseminar os fluxos da informação, dar acesso e visibilidade ao público interno e externo das novidades desenvolvidas.
+* Na USTORE, empresa do grupo CLARO, trabalho no time de Produtos, sou Analista de Documentação Senior, realizo a gestão do conhecimento nos materiais técnicos produzidos pelos desenvolvedores. Meu papel é criar documentação para os manuais de uso destes softwares, trilho a jornada do usuário nestas plataformas, transformando em linguagem acessível o passo a passo deste uso ao cliente.
+* Como incremento, elaboro releases notes, lidero a equipe que trabalho com documentação, planejo todas as atividades de acordo com o backlog de entrega da organização. Mantenho contato com gerência e diretoria do grupo. Utilizo aplicações como: monday, teams, git: hub e lab, vscode.
+----
+## O que estudei
 
-* I'am a TECH WRITER at USTORE, empresa do grupo CLARO, trabalho com documentação da jornada do usuário, manuais de uso dos softwares produzidos na organização e tradução.
+* Atualmente TECH WRITER e DOCUMENTALISTA. Pós graduada em ASSESSORIA DE COMUNICAÇÃO, jornalista com especialização em GESTÃO DE MARCAS e EVENTOS. BACHAREL em GESTÃO DA INFORMAÇÃO, LICENCIADA em LETRAS Inglês e Português.
+* Sigo estudando durante esta transição de carreira para a área de TI, carrego bagagem das áreas de marketing, finanças, comercial e de comunicação, além das práticas em marketing digital e relações públicas. Entendo que todas as experiências profissionais que tive me habilitam hoje para desenvolver meu trabalho na área, a vivência em outras áreas fortalece o perfil desta jornalista e gestora da informação, estou há oito anos trabalhando na Ustore, antes uma *startup*, hoje um dos braços de tecnologia da Claro.
+* Eu sou apaixonada pela tecnologia, especialmente Cloud e inovação, amo aprender sou curiosa, gosto de filmes, séries, para distrair e me socializar com os amigos e família gosto de cozinhar uma deliciosa paella ou comida mexicana, nas férias viajar é a melhor diversão. 
+* Estudei inglês, espanhol, português, minha língua nativa é o espanhol, entretanto falo muito bem o português. Tenho algumas certificações que podem ser visualizadas no meu perfil do LinkedIn: https://www.linkedin.com/in/rosa-de-la-vega.
+----
+### Desafio é alimento diário.
 
-* Estudo ... desde ... e iniciei o trabalho na área de tecnologia em ....
+|Hard Skills|Soft Skills|
+|-----------|-----------|
+|...........|...........|
+|...........|comunicação|
+|...........|resiliencia|
+|...........|...........| 
+|...........|liderança..| 
 
-* eu sou apaixonada por .... e .... amo aprender muitas coisas, falar se gosta de jogos, filmes, séries, viajar, amo aprender coisas novas, (soft skills)
-* Estudei tais coisas e agora estou estudando tais coisas.
-* 
-ASSESSORA DE COMUNICAÇÃO, especialista GESTÃO DE MARCAS/EVENTOS,  sigo em transição da carreira dentro da área de TI. BACHAREL: GESTÃO DA INFORMAÇÃO, LICENCIADA: LETRAS inglês e português. Desafio é alimento diário.
-
-| Hard Skills  |  Soft Skills |
-| .. | .. |
-| nana | comunicação |
-| nano | resiliencia |
-| nano | multiculturalismo | 
-| comunicativa | liderança | 
-
-* eu também compartilho minha rotina de mãe e desenvolvedora no meu linkedin (deixa o link para o acesso) 
