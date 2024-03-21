@@ -10,7 +10,7 @@
 * Atualmente TECH WRITER e DOCUMENTALISTA. Pós graduada em ASSESSORIA DE COMUNICAÇÃO, jornalista com especialização em GESTÃO DE MARCAS e EVENTOS. BACHAREL em GESTÃO DA INFORMAÇÃO, LICENCIADA em LETRAS Inglês e Português.
 * Sigo estudando durante esta transição de carreira para a área de TI, carrego bagagem das áreas de marketing, finanças, comercial e de comunicação, além das práticas em marketing digital e relações públicas. Entendo que todas as experiências profissionais que tive me habilitam hoje para desenvolver meu trabalho na área, a vivência em outras áreas fortalece o perfil desta jornalista e gestora da informação, estou há oito anos trabalhando na Ustore, antes uma *startup*, hoje um dos braços de tecnologia da Claro.
 * Eu sou apaixonada pela tecnologia, especialmente Cloud e inovação, amo aprender sou curiosa, gosto de filmes, séries, para distrair e me socializar com os amigos e família gosto de cozinhar uma deliciosa paella ou comida mexicana, nas férias viajar é a melhor diversão. 
-* Estudei inglês, espanhol, português, minha língua nativa é o espanhol, entretanto falo muito bem o português. Tenho algumas certificações que podem ser visualizadas no meu perfil do LinkedIn: https://www.linkedin.com/in/rosa-de-la-vega.
+* Estudei inglês, espanhol, português, minha língua nativa é o espanhol, entretanto falo muito bem o português. Tenho algumas certificações que podem ser visualizadas no meu perfil do LinkedIn: https://www.linkedin.com/in/rosadelavega
 ----
 ### Desafio é alimento diário.
 
