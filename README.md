@@ -14,16 +14,19 @@
 ----
 ### Desafio é alimento diário na minha vida profissional
 
-|Hard Skills|Soft Skills|
-|Markdown|habilidade para comunicação|
-|sphinx|atenção aos detalhes|
-|git hub e lab|colaboração|
-|trabalho remoto|gestão do tempo|
-|redação|criatividade| 
-|marketing|liderança|
-|gestão ágil|resolução de conflitos|
-|espanhol e inglês|capacidade de adaptação|
-|gestão de projetos|responsabilidade|
-|storing telling|ética|
-|scrum e sprint|resiliencia|
+
+| Hard Skills        | Soft Skills                   |
+| :---:              | :---:                         |
+| markdown           | habilidade para comunicação   |
+| editoração         | atenção aos detalhes          |
+| git hub e git lab  | colaboração em equipe         |
+| trabalho remoto    | gestão do tempo               |
+| jornada usuário    | criatividade                  |
+| marketing          | liderança em equipe           |
+| gestão ágil        | resolução de conflitos        |
+| espanhol e inglês  | capacidade de adaptação       |
+| gestão de projetos | responsabilidade e compromisso|
+| storing telling    | ética                         |
+| scrum e sprint     | resiliencia                   |
+
 
