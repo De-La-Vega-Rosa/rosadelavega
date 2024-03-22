@@ -3,7 +3,7 @@
 * Me chamo **Rosa de La Vega**, sou mexicana vivendo no nordeste do Brasil, trabalho com pessoas, mantenho repositórios, elaboro documentação, realizo tradução, publico os materiais em ambientes virtuais, utilizando a linguagem Markdown.
 * Sou gestora da informação, profissional especialista em gerenciar o fluxo de dados, documentar as ações e os processos. Responsável por armazenar, proteger e disseminar os fluxos da informação, dar acesso e visibilidade ao público interno e externo das novidades desenvolvidas.
 * Na USTORE, empresa do grupo CLARO, trabalho no time de Produtos, sou Analista de Documentação Senior, realizo a gestão do conhecimento nos materiais técnicos produzidos pelos desenvolvedores. Meu papel é criar documentação para os manuais de uso destes softwares, trilho a jornada do usuário nestas plataformas, transformando em linguagem acessível o passo a passo deste uso ao cliente.
-* Como incremento, elaboro releases notes, lidero a equipe que trabalho com documentação, planejo todas as atividades de acordo com o backlog de entrega da organização. Mantenho contato com gerência e diretoria do grupo. Utilizo aplicações como: monday, teams, git: hub e lab, vscode.
+* Como incremento, elaboro releases notes, lidero a equipe que trabalho com documentação, planejo todas as atividades de acordo com o backlog de entrega da organização, tudo com foco no cliente e alinhado com o time comercial. Mantenho contato com gerência e diretoria do grupo. Utilizo aplicações como: monday, teams, git: hub e lab, vscode.
 ----
 ## O que estudei
 
@@ -12,13 +12,18 @@
 * Eu sou apaixonada pela tecnologia, especialmente Cloud e inovação, amo aprender sou curiosa, gosto de filmes, séries, para distrair e me socializar com os amigos e família gosto de cozinhar uma deliciosa paella ou comida mexicana, nas férias viajar é a melhor diversão. 
 * Estudei inglês, espanhol, português, minha língua nativa é o espanhol, entretanto falo muito bem o português. Tenho algumas certificações que podem ser visualizadas no meu perfil do LinkedIn: https://www.linkedin.com/in/rosadelavega
 ----
-### Desafio é alimento diário.
+### Desafio é alimento diário na minha vida profissional
 
 |Hard Skills|Soft Skills|
-|-----------|-----------|
-|...........|...........|
-|...........|comunicação|
-|...........|resiliencia|
-|...........|...........| 
-|...........|liderança..| 
+|Markdown|habilidade para comunicação|
+|sphinx|atenção aos detalhes|
+|git hub e lab|colaboração|
+|trabalho remoto|gestão do tempo|
+|redação|criatividade| 
+|marketing|liderança|
+|gestão ágil|resolução de conflitos|
+|espanhol e inglês|capacidade de adaptação|
+|gestão de projetos|responsabilidade|
+|storing telling|ética|
+|scrum e sprint|resiliencia|
 
